@@ -6,13 +6,13 @@ Digital Clock
 
 Implementation Details:
 
-Create a Digital Clock with React.
+• Create a Digital Clock with React.
 
-When Digital Clock is mounted, the Digital Clock should update the state variable time with the current time.
+• When Digital Clock is mounted, the Digital Clock should update the state variable time with the current time.
 
-This Digital Clock should update the time variable regularly at an interval of 1 sec.
+• This Digital Clock should update the time variable regularly at an interval of 1 sec.
 
-When the component is unmounted then Digital Clock should be terminated to free up resources.
+• When the component is unmounted then Digital Clock should be terminated to free up resources.
 
 
 Acceptance Criteria
