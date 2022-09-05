@@ -1,4 +1,6 @@
-# Question easy 
+# Digital Clock 
+
+Question easy 
 
 Digital Clock
 Implementation Details:
