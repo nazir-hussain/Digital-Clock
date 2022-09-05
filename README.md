@@ -17,13 +17,13 @@ Implementation Details:
 
 Acceptance Criteria
 
-Date time should be displayed inside div with classname "date-time"
+• Date time should be displayed inside div with classname "date-time"
 
-Use JavaScript class Date.
+• Use JavaScript class Date.
 
-Update Digital Clock in every second.
+• Update Digital Clock in every second.
 
-Terminate Digital Clock on unmounting.
+• Terminate Digital Clock on unmounting.
 
 
 Time Format
