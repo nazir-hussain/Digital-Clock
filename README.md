@@ -1,8 +1,9 @@
 # Digital Clock 
 
-Question easy 
+Question (easy)
 
 Digital Clock
+
 Implementation Details:
 
 Create a Digital Clock with React.
