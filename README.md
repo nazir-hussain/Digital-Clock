@@ -15,7 +15,7 @@ Implementation Details:
 • When the component is unmounted then Digital Clock should be terminated to free up resources.
 
 
-Acceptance Criteria
+<b>Acceptance Criteria</b>
 
 • Date time should be displayed inside div with classname "date-time"
 
