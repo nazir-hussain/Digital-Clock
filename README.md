@@ -26,7 +26,7 @@ Implementation Details:
 • Terminate Digital Clock on unmounting.
 
 
-Time Format
+<strong>Time Format</strong>
 
 • use toLocaleString method on date object to display date-time
 
